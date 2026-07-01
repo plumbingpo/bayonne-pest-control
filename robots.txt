@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bayonnepestcontrolco.com/sitemap.xml
